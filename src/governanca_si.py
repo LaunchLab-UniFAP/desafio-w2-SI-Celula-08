@@ -1,7 +1,8 @@
 # LaunchLab UniFAP - Desenvolvimento Exclusivo SI
 METADADOS_COMPLIANCE = {
     "limite_frota_m3": 50.0,
-    "piso_ociosidade_percentual": 0.30, 
+    "teto_ociosidade_percentual": 0.30,
+    "piso_ociosidade_percentual": 0.30,
     "indicadores_ambientais": ["Reducao CO2", "Economia Combustivel"]
 }
 

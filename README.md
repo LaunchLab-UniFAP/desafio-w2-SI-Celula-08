@@ -57,6 +57,12 @@ Com base no cenário proposto da semana, descreva qual o impacto humano, social,
 Justifique a decisão de arquitetura técnica adotada pela célula nesta entrega. Como as regras de negócio de ADS e as estruturas de dados de SI foram construidas para garantir que a solução seja escalável e de fácil manutenção?
 💬 RESPOSTA DA CÉLULA: [Escreva sua justificativa técnica aqui]
 
+##  Seção de Compliance Ambiental e Green IT
+
+O monitoramento estruturado da capacidade da frota e da ociosidade permite registrar dados confiáveis para auditoria financeira e para as decisões de governança de TI. Ao identificar coletas com menos de 15 m³, a equipe pode revisar a rota antes de deslocar um caminhão com pouca carga.
+
+Essa decisão reduz viagens desnecessárias, o consumo de combustível e as emissões de CO₂. Dessa forma, os metadados de compliance apoiam uma operação mais econômica e sustentável, aplicando os princípios de Green IT.
+
 ## 🛠️ Diário de Bordo da Bancada
 
 * Maior travamento técnico superado pela dupla durante a semana: [Relate aqui]
@@ -65,4 +71,3 @@ Justifique a decisão de arquitetura técnica adotada pela célula nesta entrega
 
 
 ## Lembrete de Fechamento: Garanta que todo o projeto esteja commitado na branch principal ('main') e responda ao Micro Simulado individual no AVA antes do prazo limite.
-
